@@ -1,0 +1,229 @@
+[
+
+
+
+    {
+        "profile": "https://avatarfiles.alphacoders.com/130/130595.jpg",
+        "nombre": "Capitan America",
+        "identidad": "Steve Rogers",
+        "edad": "27",
+        "altura": "188",
+        "genero": "masculino",
+        "descripcion": "Dotado con un físico superhumano, y llevado a ser el más capacitado combatiente del mundo. En solitario o como líder de los Vengadores, el lucha por la libertad y la justicia."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/983/98372.jpg",
+        "nombre": "Viuda Negra",
+        "identidad": "Natasha Romanov",
+        "edad": "70",
+        "altura": "170",
+        "genero": "femenino",
+        "descripcion": "Agente de inteligencia rusa, recluta de la KGB, un arma soviética de La Guerra Fría, leyenda de la academia de espías conocido como el Red-Room."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/184/184063.jpg",
+        "nombre": "Capitana Marvel",
+        "identidad": "Carol Denvers",
+        "edad": "30",
+        "altura": "180",
+        "genero": "femenino",
+        "descripcion": "Ex piloto y agente de inteligencia de la Fuerza Aérea, Carol Danvers, persiguió su sueño de explorar el espacio como empleada de la NASA, pero su vida cambió para siempre cuando se transformó accidentalmente en un híbrido humano-Kree con poderes extraordinarios."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/755/75548.jpg",
+        "nombre": "Hulk ",
+        "identidad": "Bruce Banner",
+        "edad": "39",
+        "altura": "300",
+        "genero": "masculino",
+        "descripcion": "Atrapado en el corazón de un explosión nuclear, victima de la salvaje radiación gamma, el Dr. Robert Bruce Banner se encuentra ahora transformado en tiempos de tensión en la oscura personificación de su rabia y furia reprimidas en la más poderosa criatura que haya caminado la faz de La Tierra."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/153/153819.jpg",
+        "nombre": "Iron Man",
+        "identidad": "Anthony Edward Stark (Tony Stark)",
+        "edad": "42",
+        "altura": "174",
+        "genero": "masculino",
+        "descripcion": "Anthony Edward Stark, es un exitoso y multimillonario empresario, y uno de lo hombre mas inteligentes del planeta, convertido en un superhéroe por derecho propio."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/127/127575.jpg",
+        "nombre": "Thor",
+        "identidad": "Thor Odinson",
+        "edad": "35",
+        "altura": "190",
+        "genero": "masculino",
+        "descripcion": "Dios del Trueno, anterior Rey de Nuevo Asgard y miembro fundador de los Vengadores."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/755/75575.jpg",
+        "nombre": "Winter Soldier",
+        "identidad": "James Buchanan Barnes (Bucky)",
+        "edad": "32",
+        "altura": "175",
+        "genero": "masculino",
+        "descripcion": "Ex soldado del Regimiento de Infantería y el mejor amigo de Steve Rogers, desde la infancia."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/151/151421.jpg",
+        "nombre": "Wasp",
+        "identidad": "Janet Van Dyne",
+        "edad": "33",
+        "altura": "162",
+        "genero": "femenino",
+        "descripcion": "Janet se sometía a un tratamiento con partículas Pym que alteraba su cuerpo, permitiéndole desarrollar un par de alas cada vez que se reducía."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/755/75566.jpg",
+        "nombre": "Ant-Man",
+        "identidad": "Scott Lang",
+        "edad": "33",
+        "altura": "175",
+        "genero": "masculino",
+        "descripcion": "Exconvicto y experto en electrónica contratado por Stark International, que le permite robar el traje Ant-Man de Hank Pym, que hace tiempo que renunció al nombre."
+    
+    
+    },
+    {
+        "profile": "https://www.superherodb.com/pictures2/portraits/10/050/12586.jpg?v=1578980175",
+        "nombre": "Black Panther",
+        "identidad": "T'Challa",
+        "edad": "27",
+        "altura": "177",
+        "genero": "masculino",
+        "descripcion": "Es el rey y protector de la nación africana de Wakanda. Además de poseer habilidades mejoradas logradas a través de rituales antiguos de Wakanda de beber la esencia de la hierba en forma de corazón."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/612/61211.png",
+        "nombre": "Hawkeye",
+        "identidad": "Clint BartonClint Barton",
+        "edad": "33",
+        "altura": "165",
+        "genero": "masculino",
+        "descripcion": "Ojo de Halcón es un excelente arquero, y experto en diseño y construcción de nuevas puntas de flecha. Tiene experiencia como artista circense y una visión extraordinaria."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/569/56901.jpg",
+        "nombre": "Doctor Strange",
+        "identidad": "Stephen Strange",
+        "edad": "50",
+        "altura": "189",
+        "genero": "masculino",
+        "descripcion": "Hechicero Supremo, el principal protector de la Tierra contra las amenazas mágicas y místicas."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/200/200681.jpg",
+        "nombre": "Groot",
+        "identidad": "Groot",
+        "edad": "20",
+        "altura": "700",
+        "genero": "masculino",
+        "descripcion": "Criatura extraterrestre descendiente de una raza de flora andante que se asemeja a un árbol sensible que se convirtió en un criminal al igual que su amigo Rocket Raccoon."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/131/131652.jpg",
+        "nombre": "Scarlet Witch",
+        "identidad": "Wanda Maximoff",
+        "edad": "28",
+        "altura": "170",
+        "genero": "femenino",
+        "descripcion": "Es la hermana melliza de Mercurio. Puede alterar la realidad a voluntad, controlando los objetos y la mente de los demás."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/566/56652.jpg",
+        "nombre": "Rocket Raccoon",
+        "identidad": "Rocket Raccoon",
+        "edad": "10",
+        "altura": "120",
+        "genero": "masculino",
+        "descripcion": "Mapache inteligente y antropomórfico miembro de los Guardianes de la Galaxia."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/184/184035.jpg",
+        "nombre": "Star-Lord",
+        "identidad": "Peter Jason Quill",
+        "edad": "35",
+        "altura": "188",
+        "genero": "masculino",
+        "descripcion": "Es un aventurero espacial y líder de los Guardianes de la Galaxia, que fue secuestrado por los Devastadores y fue entrenado por Yondu Udonta cuando era niño."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/968/96803.jpg",
+        "nombre": "Spider-Man",
+        "identidad": "Peter Parker",
+        "edad": "17",
+        "altura": "168",
+        "genero": "masculino",
+        "descripcion": "Picado por una araña radiactiva, el estudiante Peter Parker obtuvo la fuerza y la agilidad proporcionales a la de un arácnido."
+    
+    
+    },
+    {
+        "profile": "https://avatarfiles.alphacoders.com/179/179067.jpg",
+        "nombre": "War Machine",
+        "identidad": "James Rhodes",
+        "edad": "44",
+        "altura": "174",
+        "genero": "masculino",
+        "descripcion": "Es un coronel de las fuerzas aéreas de Estados Unidos. Es el mejor amigo de Tony Stark. Entre sus alter egos se encuentran War Machine, una armadura de batalla armada con misiles."
+    
+    
+    },
+    {
+        "profile": "https://www.superherodb.com/pictures2/portraits/10/050/12510.jpg?v=1543334542",
+        "nombre": "Falcon",
+        "identidad": "Sam Wilson",
+        "edad": "32",
+        "altura": "180",
+        "genero": "masculino",
+        "descripcion": "Superhéroe que usa tecnología y lucha con los proyectiles de sus alas inteligentes. Puede volar mejor que todos los otros Vengadores debido a su conocimiento de las aves, es un observador de aves notable."
+    
+    
+    },
+    {
+        "profile": "https://www.superherodb.com/pictures2/portraits/11/050/12589.jpg?v=1532603019",
+        "nombre": "Vision",
+        "identidad": "Vision",
+        "edad": "0",
+        "altura": "180",
+        "genero": "masculino",
+        "descripcion": "Androide con un cuerpo sintético de Vibranio creado por Ultrón y la Doctora Helen Cho."
+    }
+
+
+
+
+
+
+]
